@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.border {
+    border: solid orange 1px;
+}
+
+.landing-page-custom {
+    background-blend-mode: screen;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

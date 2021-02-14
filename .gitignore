@@ -2,7 +2,9 @@
 
 # dependencies
 /node_modules
+/www_geoig_sk
 /.pnp
+.idea
 .pnp.js
 
 # testing
