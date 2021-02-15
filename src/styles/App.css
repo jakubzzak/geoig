@@ -10,6 +10,12 @@
     background-blend-mode: screen;
 }
 
+.main-bg {
+    background: linear-gradient(155deg, #fdfde7, #fafac0, #fcfc8f, #f8f871);
+    background-size: 100% 100%;
+    animation: gradient 15s ease infinite;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

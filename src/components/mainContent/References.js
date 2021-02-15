@@ -11,7 +11,6 @@ const References = () => {
     { desc: 'Etapové meranie zvislých posunov vodnej stavby Zemplínska Šírava, (subd. LIPG, s.r.o.)' },
     { desc: 'Dokumentácia skutočného vyhotovenia a geometrický plán Admin. budovy LS Pezinok' },
     { desc: 'Etapové meranie zvislých posunov objektu MSVP JAVYS, a.s.' },
-    { desc: 'Dokumentácia skutočného vyhotovenia a geometrický plán Admin. budovy LS Pezinok' },
     { desc: 'Etapové meranie zvislých posunov vodných prečerpávacích staníc ČS Boľ, ČS Čičarovce, ČS Ptrukša, (subd. LIPG, s.r.o.)' },
     { desc: 'Meranie zvislých a vodorovných posunov diaľničných mostných objektov D1-178.1, D1-178.2, D1-178.6, (subd. LIPG, s.r.o.)' },
     { desc: 'Určenie geometrických parametrov lanovej dráhy typ Doppelmayr 4-CLF, Oravská Lesná' },
@@ -124,7 +123,8 @@ const References = () => {
   return (
     <div id="references" className="p-lg">
       <div className="uppercase text-white text-center p-sm rounded-lg bg-red-400"
-           style={{ width: '150px', left: '-40px', position: 'relative' }}>referencie
+           style={{ width: '150px', left: '-40px', position: 'relative' }}>
+        referencie
       </div>
       <div className="ref2015">
         <div className="text-white text-center p-sm rounded-lg bg-blue-200 z-1"

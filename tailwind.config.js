@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       backgroundImage: theme => ({
         'landing-page': "url('./img/landing-page.png')",
+        'in-action': "url('./img/in-action.png')",
       })
     },
     screens: {

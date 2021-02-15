@@ -8,7 +8,7 @@ import MainContent from './components/MainContent'
 const App = () => {
 
   return (
-    <div className="bg-yellow-200">
+    <div className="bg-yellow-200 main-bg">
       <LandingPage/>
       <MainContent/>
       <Footer/>
